@@ -1,4 +1,4 @@
 ﻿{"appName":"Z阅读",
-    "version":7,
+    "version":9,
     "url":"https://raw.githubusercontent.com/983183947/zreader_update/master/Z%E9%98%85%E8%AF%BB_v7.apk"
 }
