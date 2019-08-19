@@ -1,4 +1,4 @@
 ﻿{"appName":"Z阅读",
     "version":9,
-    "url":"http://sfrz.tchsoft.com/ReqDataResult/app/test/Z阅读_v7.apk"
+    "url":"http://sfrz.tchsoft.com/ReqDataResult/app/test/Z阅读.apk"
 }

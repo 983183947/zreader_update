@@ -1,4 +1,4 @@
 ﻿{"appName":"ztools",
     "version":5,
-    "url":"http://sfrz.tchsoft.com/ReqDataResult/app/test/ztools_v2.0.0.apk"
+    "url":"http://sfrz.tchsoft.com/ReqDataResult/app/test/ztools.apk"
 }
