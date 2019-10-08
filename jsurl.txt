@@ -1,4 +1,8 @@
 {
 	"心跳监控": "https://raw.githubusercontent.com/983183947/zreader_update/master/%E5%BF%83%E8%B7%B3%E7%9B%91%E6%8E%A7.js",
-	"AppStart":"https://raw.githubusercontent.com/983183947/zreader_update/master/AppStart.js"
+	"AppStart":"https://raw.githubusercontent.com/983183947/zreader_update/master/AppStart.js",
+	"微鲤":"https://raw.githubusercontent.com/983183947/zreader_update/master/%E5%BE%AE%E9%B2%A4.js",
+	"阅有钱":"https://raw.githubusercontent.com/983183947/zreader_update/master/%E9%98%85%E6%9C%89%E9%92%B1.js",
+	"阅有钱":"",
+	"阅有钱":"",
 }
