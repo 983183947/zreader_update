@@ -1,0 +1,41 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "1397A3A8-1",
+    "build_number": 1,
+    "build_time": 1562832872794,
+    "release": false
+  },
+  "encryptLevel": 1,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "Powered by zzj",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "Z阅读",
+  "optimization": {
+    "removeOpenCv": true,
+    "unusedResources": true
+  },
+  "packageName": "com.zreader",
+  "publish": {
+    "category": "软件辅助",
+    "details": "",
+    "maxAutoJsVersion": -1,
+    "maxProVersion": 7009999,
+    "minAutoJsVersion": -1,
+    "minProVersion": 7000000,
+    "minSdkVersion": 2,
+    "permissions": [],
+    "summary": "",
+    "tags": []
+  },
+  "scripts": {},
+  "versionCode": 2,
+  "versionName": "2.0.0"
+}
